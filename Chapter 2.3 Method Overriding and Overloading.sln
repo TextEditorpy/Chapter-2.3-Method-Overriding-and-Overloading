@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Chapter 2.3 Method Overriding and Overloading", "Chapter 2.3 Method Overriding and Overloading.pyproj", "{54CBE3B3-DE10-4B48-85CD-36BE1424EF73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CBE3B3-DE10-4B48-85CD-36BE1424EF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CBE3B3-DE10-4B48-85CD-36BE1424EF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4EBA8B-7557-4E35-812F-D3D5C543C068}
+	EndGlobalSection
+EndGlobal
